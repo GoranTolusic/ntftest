@@ -41,8 +41,6 @@
         "dotenv": "^16.0.3",
         "express": "^4.18.2",
         "generate-password": "^1.7.1",
-        "googleapis": "^133.0.0",
-        "got": "^11.8.6",
         "jsonwebtoken": "^9.0.0",
         "knex": "^2.3.0",
         "lodash": "^4.17.21",
